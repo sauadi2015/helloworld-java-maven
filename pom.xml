@@ -41,7 +41,7 @@
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>vodafone</id>
 		<name>Internal Releases</name>
 		<url>http://13.126.77.211:8081/repository/VodafoneSnapshot/</url>
 	</snapshotRepository>
