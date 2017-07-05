@@ -35,15 +35,15 @@
   
  <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>vodafone</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/releases/</url>
+		<url>http://13.126.77.211:8081/repository/VodafoneRelease/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://13.126.77.211:8081/repository/VodafoneSnapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
